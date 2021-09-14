@@ -90,3 +90,36 @@ header {
 
 
 }
+/* Task Tags Styling */
+
+.task-tags {
+    font-size: 12px;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+.editorial {
+    background: #45ABEA;
+}
+
+.q1-goals {
+    background-color: #9C72E4;
+}
+
+.recruiting {
+    background-color: #64C0A9;
+}
+
+.mobile {
+    background-color: #F29E33;
+}
+
+.website {
+    background-color: #D863A1;
+}
+
+.sales {
+    background-color: #B0C926;
+}
