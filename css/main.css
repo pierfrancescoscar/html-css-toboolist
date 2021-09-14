@@ -39,6 +39,7 @@ header {
     margin: auto;
     margin-top: 50px;
     margin-bottom: 20px;
+    background-color: white;
     
 }
 
@@ -73,3 +74,19 @@ header {
     color: #DFE2E5;
 }
 
+.check-symbol {
+    color: #6FC6B2;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 5px;
+    
+}
+
+.delete-symbol {
+    color: #EA4237;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 5px;
+
+
+}
