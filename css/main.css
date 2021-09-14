@@ -1,0 +1,75 @@
+/* General Settings */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/*Simple Tags Settings*/
+
+header {
+    background: white;
+    padding: 10px 10px;
+}
+
+/*Main Content Styling*/
+
+.container {
+    width: 70%;
+    background-color: #F6F8F9;
+    margin: auto;
+}
+
+.logo {
+    vertical-align: middle;
+    
+}
+
+.header-title {
+    font-size: 30px;
+    font-weight: 800;
+    vertical-align: middle;
+    
+}
+
+.task-container {
+    width: 65%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+
+.buttons-container {
+    background: white;
+    padding: 25px;
+    border-bottom: 1px solid #F6F8F9;
+
+}
+
+.buttons {
+    font-size: 12px;
+    text-align: center;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 5px;
+    vertical-align: middle;
+    
+}
+
+.task {
+    background: dodgerblue;
+    color: white;
+    border-color: dodgerblue;
+    
+}
+
+.section {
+    background: white;
+    border: 1px solid;
+    border-color: #DFE2E5;
+    color: #DFE2E5;
+}
+
